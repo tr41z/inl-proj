@@ -1,0 +1,5 @@
+poleval_data
+wiki_index.db
+*.tsv
+*.png
+*.jsonl
